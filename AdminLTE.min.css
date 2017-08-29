@@ -19,6 +19,7 @@ background-image: url("https://f.top4top.net/p_60337erj1.png");
     color: #fff;
     opacity: 0.9;
  border-radius: 75px 0 75px 0px;
+     box-shadow: 2px 7px 54px #d84d3c;
 	}.login-box-body .form-control-feedback,.register-box-body .form-control-feedback{color:#777}.login-box-msg,
 	.register-box-msg{
 		font-size: 21px;
